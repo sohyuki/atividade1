@@ -3,7 +3,7 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Eduardo de Souza Silva
+Nome: Eduardo de Souza Silva <br>
 Matricula: 879983
 
 ## Tela de inspeção com navegador
